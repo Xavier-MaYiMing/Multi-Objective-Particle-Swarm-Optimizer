@@ -59,7 +59,7 @@ if __name__ == '__main__':
 
 ##### Output:
 
-![MOPSO](C:\Users\dell\Desktop\研究生\个人算法主页\Multi-Objective Particle Swarm Optimization\MOPSO.gif)
+![](https://github.com/Xavier-MaYiMing/Multi-Objective-Particle-Swarm-Optimizer/blob/main/MOPSO.gif)
 
 ```python
 Iteration: 10, Pareto-optimal particles: 23
